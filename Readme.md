@@ -81,7 +81,7 @@ In this project, we develop a URL shortening service where users can:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/rishabhchoudhary172001/url-shortner.git
+    git clone https://github.com/RishabhChoudhary172001/url-shortner.git
     cd url-shortner
     ```
 
